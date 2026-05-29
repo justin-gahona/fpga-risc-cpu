@@ -1,0 +1,15 @@
+# Vivado project artifacts
+.cache/
+.runs/
+.sim/
+.hw/
+.ip_user_files/
+
+# Vivado logs / journals
+*.jou
+*.log
+*.str
+
+# Bitstream / binary output
+*.bit
+*.bin
